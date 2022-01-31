@@ -1,5 +1,5 @@
 function darkShadow(options) {
-    let images = document.querySelectorAll('.shadowizard');
+    let images = document.querySelectorAll('.darkShadow');
 
     if (options.shadow_type === 'hard') {
         options.shadow_type = '0px';

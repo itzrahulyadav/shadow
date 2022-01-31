@@ -1,0 +1,24 @@
+{
+  "name": "darkshadow",
+  "version": "1.0.0",
+  "description": "A shadow generator for images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itzrahulyadav/shadow.git"
+  },
+  "keywords": [
+    "shadows",
+    "css",
+    "style"
+  ],
+  "author": "Rahul yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itzrahulyadav/shadow/issues"
+  },
+  "homepage": "https://github.com/itzrahulyadav/shadow#readme"
+}
